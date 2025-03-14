@@ -1,2 +1,2 @@
 # conference-resources
-All my supporting resources for different conferences where I speak.
+Missed my talk? No worries! Here, you'll find all the supporting materials for my conference talks, including transcripts, blog posts, and presentation slides
